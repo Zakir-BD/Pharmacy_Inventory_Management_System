@@ -1,0 +1,4 @@
+source D:\AngularJS.sql;
+
+drop database angular_js;
+drop database jexam;
